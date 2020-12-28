@@ -29,4 +29,6 @@ Biggest issue was finding great examples of how to properly acess HTML DOM. I se
 
 ## How can I improve?
 
-One way for me to improve is to fuilly understand the syntax and read the documentations over and over again. In addition, make edits and read different kind of APIs to further my knowledge when using the DOM. By increasing my knowledge of the fundamentals of the DOM, and how it works, can best improve my skills in JavaScript.
+One way for me to improve is to fully understand the syntax and to start writing code. Reading documentation and understanding the basic fundamentals are a great way to learn, but it also means that you have to put it into practice. By continuously writing code and making mistakes, I was able to get a better understanding of what I was doing wrong. 
+
+I need to write more pseudo code to better understand what code needs to be mapped out.
