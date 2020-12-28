@@ -1,0 +1,100 @@
+body {
+    margin: 0 auto;
+    margin-bottom: 100px;
+    width: 500px;
+    font-size: 50px;
+}
+
+h1 {
+    font-size: 60px;
+    margin: 80px auto;
+    text-align: center;
+}
+
+
+.calculator {
+    border: 1px;
+    border-style: solid;
+    padding: 30px;
+    background: linear-gradient(#51b69d, #2dbbe6);
+    border-radius: 50px;
+}
+
+
+#input {
+    border: 1px;
+    border-style: solid;
+    margin: 5px 1px ; 
+    padding: 0 20px;
+    text-align: right;
+    background-color: rgb(255, 255, 255);
+}
+
+.left-panel {
+    display: inline-block;
+}
+
+/* operators */
+
+button {
+    font-size: 35px;
+    margin-top: 10px;
+}
+
+
+.operators {
+    text-align: center;
+}
+
+.operators button {
+    display: inline-block;
+    border: 1px;
+    border-style: solid;
+    text-align: center;
+    padding: 20px 35px;
+    margin: 10px 2px 0px 2px;
+    width: 95px;
+    cursor: pointer;
+    background-color: rgb(255, 245, 104);
+ 
+}
+
+
+
+/* numbers */
+
+.numbers {
+    text-align: center;
+}
+
+
+
+.numbers button{
+    display: inline-block;
+    border: 1px;
+    border-style: solid;
+    text-align: center;
+    padding: 20px 30px;
+    margin: 10px 0px 0px 4px;
+    width: 96px;
+    cursor: pointer;
+    background-color: white;
+
+}
+
+
+
+.equal {
+    display: inline-block;
+    border: 1px;
+    border-style: solid;
+    vertical-align: top; 
+    margin: 8px auto;
+    padding: 160px 37px;
+    background-color: rgb(255, 252, 203);
+    color: black;
+}
+
+.numbers .clear{
+    background-color: rgb(233, 161, 161);
+}
