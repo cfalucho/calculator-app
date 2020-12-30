@@ -29,7 +29,8 @@ h1 {
     padding: 5px 20px;
     text-align: right;
     background-color: rgb(255, 255, 255);
-    height: 50px;
+    height: 60px;
+    overflow-x: auto;
 }
 
 .left-panel {
@@ -43,6 +44,12 @@ button {
     margin-top: 10px;
 }
 
+button:active{
+    transform: scale(0.98); 
+    /* Scaling button to 0.98 to its original size */ 
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24); 
+    /* Lowering the shadow */ 
+}
 
 .operators {
     text-align: center;
