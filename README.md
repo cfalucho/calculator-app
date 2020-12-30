@@ -16,10 +16,8 @@ websites to become more interactive adding all kinds of functionality and Web AP
 
 ## What I learned?
 
-While building this project, It was fun to learn HTML DOM and how JavaScript is able to access and change HTML. 
-
-I was basically able to select any element inside the DOM. Once I had an element selected, I stored it in a variable and from there, be able to manipulate it however I want using properties or methods available.  
-
+While building this project, I was able to use HTML DOM and use JavaScript to access and change HTML content. 
+By selecting any element inside the DOM, I stored it in a variable and from there, be able to manipulate it however I want using properties or methods available.
 
 ## What I struggled with?
 
